@@ -8,7 +8,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=osamaworkout&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaworkout&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=osamaworkout&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=osamaworkout&label=Profile%20Views&color=8&icon=0)](https://visitcount.itsvg.in)
 <!---
 osamaworkout/osamaworkout is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
